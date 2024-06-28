@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay Akgürgen</h1>
-<h3 align="center">A passionate frontend developer in Estonia</h3>
+<h3 align="center">A passionate frontend developer in Türkiye</h3>
 
 - 💬 Ask me about **React, Redux**
 
